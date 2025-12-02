@@ -12,7 +12,7 @@ FDA Drug Approvals
 
 Pharma Sales & Marketing
 
-Using Python, Pandas, and Matplotlib, the project performs:
+#### Using Python, Pandas, and Matplotlib, the project performs:
 
 Deep exploratory data analysis (EDA)
 
@@ -25,9 +25,9 @@ Business insights for decision-making
 This project mirrors the analytical work done inside pharmaceutical companies and builds a strong portfolio piece for data analysis roles.
 
 
-###Business Problem Statement
+### Business Problem Statement
 
-Pharmaceutical companies operate across multiple domains:
+#### Pharmaceutical companies operate across multiple domains:
 
 R&D (Clinical Trials)
 
@@ -56,7 +56,7 @@ What the full lifecycle looks like from clinical trial → approval → safety �
 This project answers all these questions using analytics.
 
 
-###Datasets Used
+### Datasets Used
 Dataset	Description
 clinical_trials.csv	Trial phases, diseases, sponsors, enrollment, durations
 adverse_events.csv	Post-market safety reports
