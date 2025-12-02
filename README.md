@@ -2,7 +2,7 @@
 A full end-to-end intermediate/advanced data analytics project for Pharma R&amp;D, Safety, Regulatory, and Commercial operations.
 Project Overview
 
-This project simulates real-world pharmaceutical analytics workflows using four interconnected datasets:
+###This project simulates real-world pharmaceutical analytics workflows using four interconnected datasets:
 
 Clinical Trials
 
@@ -25,7 +25,7 @@ Business insights for decision-making
 This project mirrors the analytical work done inside pharmaceutical companies and builds a strong portfolio piece for data analysis roles.
 
 
-Business Problem Statement
+###Business Problem Statement
 
 Pharmaceutical companies operate across multiple domains:
 
@@ -56,7 +56,7 @@ What the full lifecycle looks like from clinical trial → approval → safety �
 This project answers all these questions using analytics.
 
 
-Datasets Used
+###Datasets Used
 Dataset	Description
 clinical_trials.csv	Trial phases, diseases, sponsors, enrollment, durations
 adverse_events.csv	Post-market safety reports
@@ -66,8 +66,8 @@ pharma_sales.csv	Regional sales, revenue, and marketing spend
 These synthetic datasets were designed to reflect real industry structure.
 
 
-Analysis Performed
-A) Clinical Trials Analysis
+### Analysis Performed
+#### A) Clinical Trials Analysis
 KPIs
 
 Trials per phase, disease, country, sponsor
@@ -92,7 +92,7 @@ Country-level R&D hotspots
 
 Outliers in duration or enrollment
 
-B) Drug Safety (Adverse Events) Analysis
+#### B) Drug Safety (Adverse Events) Analysis
 KPIs
 
 Adverse event count per drug
@@ -115,7 +115,7 @@ Which demographic groups are high-risk?
 
 Which drugs have the highest serious AE rate?
 
-C) FDA Approvals Analysis
+#### C) FDA Approvals Analysis
 KPIs
 
 Approvals per year
@@ -134,7 +134,7 @@ Top performing companies
 
 Regulatory shifts (e.g., rise of biologics)
 
-D) Pharma Sales & Marketing Analysis
+#### D) Pharma Sales & Marketing Analysis
 KPIs
 
 Revenue by region
@@ -155,7 +155,7 @@ Month-over-month revenue patterns
 
 Marketing efficiency scoring
 
-E) Cross-Dataset Integrated Analysis (Advanced)
+#### E) Cross-Dataset Integrated Analysis (Advanced)
 
 (Most important portfolio section)
 
@@ -180,7 +180,7 @@ R&D ROI Indicators
 Drug-level Safety vs Revenue scatter matrix
 
 
-How to Run the Project
+#### How to Run the Project
 1. Clone the repository
 git clone https://github.com/mansaram90/pharma-analytics-project.git
 cd pharma-analytics-project
@@ -195,7 +195,7 @@ jupyter notebook
 notebooks/pharma_data_analysis_project.ipynb
 
 
-Skills Demonstrated
+#### Skills Demonstrated
 
 -Python Data Analysis
 -pandas (groupby, merges, cleaning, datetime analysis)
@@ -206,7 +206,7 @@ Skills Demonstrated
 -Project structuring & documentation
 -GitHub portfolio building
 
-Conclusion
+#### Conclusion
 
 This project simulates real pharma analytics tasks and demonstrates your ability to:
 
